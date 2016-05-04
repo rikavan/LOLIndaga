@@ -7,7 +7,9 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  background-color: #000;
+  background-image: url('../LOLIndaga(GraficoFuncion).jpg');
+  background-size: auto 100%;
+  background-repeat: no-repeat;
   color: #606c71; }
 
 a {
