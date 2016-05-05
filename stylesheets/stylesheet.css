@@ -1,6 +1,5 @@
 * {
-  box-sizing: border-box; 
-}
+  box-sizing: border-box; }
 
 body {
   padding: 0;
@@ -8,15 +7,7 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  background-image: url('../lolbg.jpg');
-  background-size: cover;
-  -webkit-background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-  color: #606c71;
-  background-color: black;
-  
-}
+  color: #606c71; }
 
 a {
   color: #1e6bb8;
@@ -65,13 +56,8 @@ a {
 .page-header {
   color: #fff;
   text-align: center;
-  /*
   background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957); 
-   */
-   
-   background-color: rgba(0,0,0,0.5);
-  }
+  background-image: linear-gradient(120deg, #155799, #159957); }
 
 @media screen and (min-width: 64em) {
   .page-header {
