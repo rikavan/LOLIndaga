@@ -22,7 +22,7 @@
   background: #c0c0c0;
 }
 ::-webkit-scrollbar-track {
-  background: #1b1c13;
+  background: #1b1c13 rgba(27,28,19, 0.2);
   border: 13px none #ffffff;
   border-radius: 68px;
 }
