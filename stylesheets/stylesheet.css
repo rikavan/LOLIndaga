@@ -8,7 +8,8 @@ body {
   font-size: 16px;
   line-height: 1.5;
   background-image: url('../lolbg.jpg');
-  background-size: auto cover;
+  background-size: cover;
+  -webkit-background-size: cover;
   background-repeat: no-repeat;
   color: #606c71; }
 
