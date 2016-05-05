@@ -11,7 +11,10 @@ body {
   background-size: cover;
   -webkit-background-size: cover;
   background-repeat: no-repeat;
-  color: #606c71; }
+  background-position: center center;
+  color: rgb(0,0,0); 
+  
+}
 
 a {
   color: #1e6bb8;
