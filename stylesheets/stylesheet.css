@@ -13,7 +13,8 @@ body {
   -webkit-background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  color: #606c71;
+  color: ##C8CCCE;
+  text-shadow: #444 1px 1px;
   background-color: black;
   
 }
