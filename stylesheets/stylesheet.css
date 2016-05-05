@@ -2,6 +2,40 @@
   box-sizing: border-box; 
 }
 
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-button {
+  width: 0px;
+  height: 0px;
+}
+::-webkit-scrollbar-thumb {
+  background: #3b3b3b;
+  border: 84px none #4a67ec;
+  border-radius: 50px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #808080;
+}
+::-webkit-scrollbar-thumb:active {
+  background: #c0c0c0;
+}
+::-webkit-scrollbar-track {
+  background: #1b1c13;
+  border: 13px none #ffffff;
+  border-radius: 68px;
+}
+::-webkit-scrollbar-track:hover {
+  background: #232323;
+}
+::-webkit-scrollbar-track:active {
+  background: #414141;
+}
+::-webkit-scrollbar-corner {
+  background: transparent;
+}
+
 body {
   padding: 0;
   margin: 0;
