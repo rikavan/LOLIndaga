@@ -18,7 +18,7 @@
 * Random Items.
 
 
-## Installation Instructions
+## Installation
 
 Go to the [Google Play Store for LOLIndaga](https://play.google.com/apps/testing/rikavan.lolindaga) and install with normally.
 
