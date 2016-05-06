@@ -26,7 +26,7 @@ Go to the [Google Play Store for LOLIndaga](https://play.google.com/apps/testing
 
 The project is an hybrid app with this technologies:
 
-* HTML
+* HTML5
 * Javascript
 * CSS3
 * Angular
