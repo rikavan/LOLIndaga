@@ -34,8 +34,6 @@ The project is an hybrid app with this technologies:
 
 ## About
 
-I built this as an entry to the Riot Games API Challenge 2016!
-
 I decided to create this app for lol gamers. I give you an app to learn about champs and items and to search summoners to see the information about them. See the free champs of the week, Champs and Random Items and much more with a beatiful and easy UI.
 
 A Developer and LOL Gamer for LOL Gamers.
